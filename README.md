@@ -1,7 +1,7 @@
 # Metadata-Analysis
 Analysis of metadata in Python
 
-# Pip
+# Required Download
 
 pip install pillow
 
