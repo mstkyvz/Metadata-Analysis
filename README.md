@@ -1,7 +1,7 @@
 # Metadata-Analysis
 Analysis of metadata in Python
 
-#Pip#
+# Pip
 
 pip install pillow
 pip install piexif
